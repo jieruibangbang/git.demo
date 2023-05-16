@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hello kugou!
 hello kugou!
 hello kugou!
@@ -24,7 +25,14 @@ hello kugou!
 111111111111111111111111111111111111111111111111
 lihai厉害byjimi
 哈哈哈哈哈哈哈哈哈
-
+ggsgssdssgfsggdsgfdvfv
+ghjkl;
+hello
+第一个文件示例
+11111成功了！！！jhjkkaaa
+celone
+哈哈，笨蛋！
 
 ssssssssssssssss
 
+>>>>>>> c80feb8eb2a68faa6c12ba6b6c325ac34094a399
