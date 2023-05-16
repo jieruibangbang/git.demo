@@ -1,14 +1,24 @@
-<<<<<<< HEAD
-hello kugou!
-hello kugou!
-hello kugou!
-hello kugou!
-hello kugou!
-hello kugou!
-hello kugou!
-hello kugou!
-hello kugou!
-hello kugou!
+<
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<<<<<< HEAD
 hello kugou!
 hello kugou!
 hello kugou!
@@ -21,17 +31,9 @@ hello kugou!
 hello kugou!
 hello kugou!
 hello kugou!master changed
-hello kugou!
-111111111111111111111111111111111111111111111111
 lihai厉害byjimi
 哈哈哈哈哈哈哈哈哈
-ggsgssdssgfsggdsgfdvfv
-ghjkl;
-hello
-第一个文件示例
-11111成功了！！！jhjkkaaa
-celone
-哈哈，笨蛋！
+比翼双飞
 
 ssssssssssssssss
 
